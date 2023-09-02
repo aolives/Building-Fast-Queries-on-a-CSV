@@ -1,4 +1,4 @@
-# Guided Project: Building Fast Queries on a CSV
+# Building Fast Queries on a CSV
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aolives/Building-Fast-Queries-on-a-CSV/HEAD)
 
